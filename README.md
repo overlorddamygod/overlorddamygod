@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development and Data Science**
 
-- 💬 Ask me about **Nodejs**
+- 💬 Ask me about **Golang** **Nodejs**
 
 - 📫 How to reach me **overlord.damygod@gmail.com**
 
