@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overlorddamygod" alt="overlorddamygod" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Data Science**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Golang** **Nodejs**
 
-- 📫 How to reach me **overlord.damygod@gmail.com**
+- 📫 How to reach me **pratham.byanjankar@gmail.com**, **overlord.damygod@gmail.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=overlorddamygod&show_icons=true" alt="overlorddamygod" /> </p>
 
